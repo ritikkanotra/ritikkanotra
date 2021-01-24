@@ -1,4 +1,4 @@
-<!-- ![Ritik Kanotra Banner](./assets/programmer-banner.jpg) -->
+![Ritik Kanotra Banner](./assets/programmer-banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ritik Kanotra</h2>
 
