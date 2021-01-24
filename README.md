@@ -1,4 +1,3 @@
-<!-- ![Ritik Kanotra Banner](banner.jpg) -->
 <img alt="Hand Wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm <b>Ritik Kanotra</b></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -9,7 +8,7 @@
 🎓 &nbsp;I'm currently a senior and pursuing Bachelor of Technology in Computer Science and Engineering.\
 🌱 &nbsp;I'm an Android Developer and looking forward to learn and solve real life problems using my skills and creativity.\
 ✍️ &nbsp;I practice Competitive Programming to hone my problem solving skills.\
-✉️ &nbsp;You can shoot me an email at ritikkanotra@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at ritikkanotra@gmail.com! I'll try to respond as soon as I can.
 <!-- 👦 &nbsp;Please have a look at my [Portflio](https://www.ritikkanotra.me) for more details about me.\
 📄 &nbsp;Please have a look at my [Résumé](https://urlf.in/ritikkanotra_resume) for more details about me. I'm open to feedback and suggestions! -->
 
