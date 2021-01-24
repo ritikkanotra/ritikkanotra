@@ -1,4 +1,5 @@
-<img alt="Hand Wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm <b>Ritik Kanotra</b></h2>
+![Ritik Kanotra Banner](./assets/programmer-banner.jpg)
+<img alt="Hand Wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ritik Kanotra</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
