@@ -11,8 +11,8 @@
 🌱 &nbsp;I'm an Android Developer and looking forward to learn and solve real life problems using my skills and creativity.\
 ✍️ &nbsp;I practice Competitive Programming to hone my problem solving skills.\
 ✉️ &nbsp;You can shoot me an email at ritikkanotra@gmail.com! I'll try to respond as soon as I can.
-<!-- 👦 &nbsp;Please have a look at my [Portflio](https://www.ritikkanotra.me) for more details about me.\
-📄 &nbsp;Please have a look at my [Résumé](https://urlf.in/ritikkanotra_resume) for more details about me. I'm open to feedback and suggestions! -->
+👦 &nbsp;Please have a look at my [Portflio](https://www.ritikkanotra.me) for more details about me.\
+📄 &nbsp;Please have a look at my [Résumé](https://urlf.in/ritikkanotra_resume) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -49,10 +49,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<!-- <a href="https://www.ritikkanotra.me"><img src="https://img.shields.io/badge/-ritikkanotra.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.ritikkanotra.me"><img src="https://img.shields.io/badge/-ritikkanotra.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ritikkanotra"><img src="https://img.shields.io/badge/-Ritik%20Kanotra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ritikkanotra@gmail.com"><img src="https://img.shields.io/badge/-ritikkanotra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://instagram.com/ritikkanotra_"><img src="https://img.shields.io/badge/-@ritikkanotra-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<a href="https://instagram.com/ritikkanotra_"><img src="https://img.shields.io/badge/-@ritikkanotra-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/ritikkanotra"><img src="https://img.shields.io/badge/-@ritikkanotra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <a href="https://twitter.com/ritikkanotra"><img src="https://img.shields.io/badge/-@ritikkanotra-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
