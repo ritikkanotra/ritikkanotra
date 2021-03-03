@@ -32,6 +32,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=Mysql)&nbsp;\
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=Sqlite)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-GCloud-05122A?style=flat)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
